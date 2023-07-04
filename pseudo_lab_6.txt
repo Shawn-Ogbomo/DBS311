@@ -1,0 +1,20 @@
+ELSE IF (list_price  >= (list_price_avg - list_price_min )/2)
+THEN
+fair_count := fair_count + 1
+
+
+i = incoming value. - 1
+loop as long as i > 1
+count down 
+ 
+incoming value = (incoming value * i -1)
+
+return incoming value
+
+
+Get a cursor to point at the year part of the date 
+minus current year 2022 from cursor value
+get difference 
+multiply 5 by the difference 
+divide result by 100
+add result to the base salary
